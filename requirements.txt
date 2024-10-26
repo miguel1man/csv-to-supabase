@@ -1,0 +1,4 @@
+chardet
+pandas
+python-dotenv
+supabase
